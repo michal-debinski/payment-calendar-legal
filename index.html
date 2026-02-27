@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Payment Calendar</title>
+    <meta name="description" content="Payment Calendar marketing site" />
+    <meta name="apple-itunes-app" content="app-id=6757201533">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="assets/css/site.css" />
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var doc = params.get("doc");
+        if (doc === "privacy" || doc === "terms") {
+          window.location.replace("legal/?doc=" + doc);
+          return;
+        }
+        var lang = (navigator.languages && navigator.languages.length ? navigator.languages[0] : navigator.language || "en")
+          .toLowerCase();
+
+        var langMap = {
+          'pl': 'pl/',
+          'en': 'en/',
+          'es': 'es/',
+          'de': 'de/',
+          'fr': 'fr/',
+          'it': 'it/',
+          'uk': 'uk/',
+          'sv': 'sv/',
+          'zh': 'zh-Hans/',
+          'zh-hans': 'zh-Hans/',
+          'zh-cn': 'zh-Hans/',
+          'ja': 'ja/',
+          'pt': 'pt-BR/',
+          'pt-br': 'pt-BR/'
+        };
+
+        var target = 'en/';
+        for (var key in langMap) {
+          if (lang.startsWith(key)) {
+            target = langMap[key];
+            break;
+          }
+        }
+
+        if (!window.location.hash && !window.location.search) {
+          window.location.replace(target);
+        }
+      })();
+    </script>
+  </head>
+  <body>
+    <script>
+      (function () {
+        var dropdown = document.querySelector('.lang-switch');
+        var button = dropdown ? dropdown.querySelector('.lang-switch-button') : null;
+        if (button) {
+          button.addEventListener('click', function(e) {
+            e.stopPropagation();
+            dropdown.classList.toggle('is-open');
+            button.setAttribute('aria-expanded', dropdown.classList.contains('is-open'));
+          });
+          document.addEventListener('click', function() {
+            dropdown.classList.remove('is-open');
+            button.setAttribute('aria-expanded', 'false');
+          });
+        }
+      })();
+    </script>
+    <main>
+      <header>
+        <div class="logo"><span></span>Payment Calendar</div>
+        <nav class="nav" aria-label="Language selection">
+          <div class="lang-switch">
+            <button class="lang-switch-button" type="button" aria-label="Select language" aria-expanded="false">
+              <span class="globe-icon">🌐</span>
+              <span>Language</span>
+              <span class="arrow">▾</span>
+            </button>
+            <div class="lang-dropdown">
+              <a href="pl/">Polski (PL)<span class="check-mark">✓</span></a>
+              <a href="en/">English (EN)<span class="check-mark">✓</span></a>
+              <a href="es/">Español (ES)<span class="check-mark">✓</span></a>
+              <a href="de/">Deutsch (DE)<span class="check-mark">✓</span></a>
+              <a href="fr/">Français (FR)<span class="check-mark">✓</span></a>
+              <a href="it/">Italiano (IT)<span class="check-mark">✓</span></a>
+              <a href="uk/">Українська (UK)<span class="check-mark">✓</span></a>
+              <a href="sv/">Svenska (SV)<span class="check-mark">✓</span></a>
+              <a href="zh-Hans/">简体中文 (ZH)<span class="check-mark">✓</span></a>
+              <a href="ja/">日本語 (JA)<span class="check-mark">✓</span></a>
+              <a href="pt-BR/">Português (PT-BR)<span class="check-mark">✓</span></a>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero">
+        <div class="hero-text" data-animate>
+          <span class="badge">Select language</span>
+          <h1>Payment Calendar</h1>
+          <p>Choose your language to view the landing page.</p>
+          <div class="cta-row" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 12px; width: 100%;">
+            <a class="cta" href="pl/">Polski</a>
+            <a class="cta" href="en/">English</a>
+            <a class="cta secondary" href="es/">Español</a>
+            <a class="cta secondary" href="de/">Deutsch</a>
+            <a class="cta secondary" href="fr/">Français</a>
+            <a class="cta secondary" href="it/">Italiano</a>
+            <a class="cta secondary" href="uk/">Українська</a>
+            <a class="cta secondary" href="sv/">Svenska</a>
+            <a class="cta secondary" href="zh-Hans/">简体中文</a>
+            <a class="cta secondary" href="ja/">日本語</a>
+            <a class="cta secondary" href="pt-BR/">Português</a>
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
+</html>
