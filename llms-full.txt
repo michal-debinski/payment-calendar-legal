@@ -1,0 +1,54 @@
+# Payment Calendar: Extended Reference
+
+Official site: https://payment-calendar.app/
+App Store: https://apps.apple.com/app/id6757201533
+
+## What Payment Calendar Is
+Payment Calendar is a bill and payment planner for iPhone and iPad (iOS/iPadOS).
+It is designed for people who want a clear monthly view of due dates and paid items,
+without using a full budgeting platform.
+
+## Core Capabilities
+- Monthly calendar for due payments
+- Payment reminders
+- Mark paid / edit / duplicate actions
+- Search by name, amount, or notes
+- iPad support
+
+## PRO Capabilities
+- Recurring payments and subscriptions
+- Statistics and trends
+- Widgets
+- iCloud sync
+- CSV/PDF export
+
+## Privacy Positioning
+- No account required
+- Local data by default
+- Optional iCloud sync when enabled by the user
+- No third-party advertising SDKs
+
+## Canonical Landing Pages
+- https://payment-calendar.app/en/
+- https://payment-calendar.app/pl/
+- https://payment-calendar.app/es/
+- https://payment-calendar.app/de/
+- https://payment-calendar.app/fr/
+- https://payment-calendar.app/it/
+- https://payment-calendar.app/uk/
+- https://payment-calendar.app/sv/
+- https://payment-calendar.app/zh-Hans/
+- https://payment-calendar.app/ja/
+- https://payment-calendar.app/pt-BR/
+
+## Legal URLs
+- https://payment-calendar.app/legal/privacy.html
+- https://payment-calendar.app/legal/terms.html
+- Localized versions are available under `/legal/<lang>/` and listed in the sitemap.
+
+## Crawl Hints
+- Canonical and hreflang are defined on each language page.
+- Structured data includes `SoftwareApplication` and `FAQPage`.
+- Crawl map: https://payment-calendar.app/sitemap.xml
+
+Last updated: 2026-03-30

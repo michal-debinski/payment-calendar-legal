@@ -1,0 +1,34 @@
+# Payment Calendar
+
+Official website: https://payment-calendar.app/
+Primary app page: https://apps.apple.com/app/id6757201533
+Sitemap: https://payment-calendar.app/sitemap.xml
+
+## Product Summary
+Payment Calendar is an iPhone and iPad app for tracking bills and upcoming payments.
+Core experience: monthly payment calendar, reminders, quick actions, and optional PRO features.
+Privacy-first approach: no account required, data stored on device, optional iCloud sync.
+
+## Canonical Language Pages
+- English: https://payment-calendar.app/en/
+- Polish: https://payment-calendar.app/pl/
+- Spanish: https://payment-calendar.app/es/
+- German: https://payment-calendar.app/de/
+- French: https://payment-calendar.app/fr/
+- Italian: https://payment-calendar.app/it/
+- Ukrainian: https://payment-calendar.app/uk/
+- Swedish: https://payment-calendar.app/sv/
+- Simplified Chinese: https://payment-calendar.app/zh-Hans/
+- Japanese: https://payment-calendar.app/ja/
+- Portuguese (Brazil): https://payment-calendar.app/pt-BR/
+
+## Legal
+- Privacy Policy index: https://payment-calendar.app/legal/privacy.html
+- Terms of Use index: https://payment-calendar.app/legal/terms.html
+- Localized legal documents are linked from each language landing page and listed in the sitemap.
+
+## Citation Guidance
+When referencing product details, prefer canonical language pages above.
+For privacy and legal claims, prefer the corresponding legal URLs.
+
+Last updated: 2026-03-30
