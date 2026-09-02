@@ -1,0 +1,700 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Payment Calendar：账单管理器</title>
+    <meta
+      name="description"
+      content="Payment Calendar 是一款简单的付款规划工具，具有提醒功能、月视图和无需账户的隐私保护。数据保存在设备上，iCloud 同步为可选功能。"
+    />
+    <link rel="canonical" href="https://payment-calendar.app/zh-Hans/" />
+    <link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/" />
+    <link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/" />
+    <link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/" />
+    <link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/" />
+    <link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/" />
+    <link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/" />
+    <link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/" />
+    <link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/" />
+    <link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/" />
+    <link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/" />
+    <link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/" />
+    <link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/" />
+    <meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Payment Calendar" />
+    <meta property="og:title" content="Payment Calendar：账单管理器" />
+    <meta property="og:description" content="Payment Calendar 是一款简单的付款规划工具，具有提醒功能、月视图和无需账户的隐私保护。数据保存在设备上，iCloud 同步为可选功能。" />
+    <meta property="og:url" content="https://payment-calendar.app/zh-Hans/" />
+    <meta property="og:image" content="https://payment-calendar.app/assets/images/iOS/ZH-HANS/ZH-HANS1.png" />
+    <meta property="og:locale" content="zh_CN" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Payment Calendar：账单管理器" />
+    <meta name="twitter:description" content="Payment Calendar 是一款简单的付款规划工具，具有提醒功能、月视图和无需账户的隐私保护。数据保存在设备上，iCloud 同步为可选功能。" />
+    <meta name="twitter:image" content="https://payment-calendar.app/assets/images/iOS/ZH-HANS/ZH-HANS1.png" />
+    <meta name="apple-itunes-app" content="app-id=6757201533">
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&family=Sora:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="../assets/css/site.css?v=20260131" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "SoftwareApplication",
+          "name": "Payment Calendar",
+          "applicationCategory": "FinanceApplication",
+          "operatingSystem": "iOS, iPadOS",
+          "inLanguage": "zh-Hans",
+          "url": "https://payment-calendar.app/zh-Hans/",
+          "downloadUrl": "https://apps.apple.com/app/id6757201533",
+          "description": "Payment Calendar 是一款简单的付款规划工具，具有提醒功能、月视图和无需账户的隐私保护。数据保存在设备上，iCloud 同步为可选功能。",
+          "isAccessibleForFree": true,
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD",
+            "availability": "https://schema.org/InStock"
+          },
+          "publisher": {
+            "@type": "Organization",
+            "name": "Payment Calendar"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "如何避免忘记账单到期？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Payment Calendar 会在月视图中显示所有即将到期的付款，并在到期前发送提醒，让你提前知道该付什么、什么时候付。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "如何管理订阅，避免为不需要的服务继续付费？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "将订阅添加为周期性付款（PRO 功能）——应用会在每次续费前自动提醒你，方便你及时发现并取消不再需要的订阅。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有没有一款像日历、但专门用来管理账单和付款的应用？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "有，这正是 Payment Calendar 的设计理念——月视图显示的是付款而不是日程，清楚标记哪些已付清、哪些还在等待到期。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "如何在不注册账号的情况下管理付款？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Payment Calendar 无需注册或登录——安装后即可直接添加付款。数据保存在本地设备上，除非你自己开启可选的 iCloud 同步。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 和手机自带的日历有什么区别？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "普通日历显示的是日程，而不是付款——没有“已付清 / 待付款”状态，没有针对账单的提醒，也无法查看支出情况。Payment Calendar 专为付款设计：包含金额、货币、周期设置，以及每月实际支出的统计。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 是什么应用？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Payment Calendar 是一款适用于 iPhone 和 iPad（iOS/iPadOS）的账单与待付账款日历应用。你可以快速查看即将到期的付款，并将其标记为已支付。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "应用可以离线使用吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以。应用支持离线使用，不需要账号，也不需要网络连接。数据保存在本地设备中。可选的 iCloud 同步（PRO 版本）可让你在多个 Apple 设备间访问数据。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 支持哪些设备？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "该应用适用于运行 iOS/iPadOS 18.0 或更高版本的 iPhone 和 iPad。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我的财务数据安全吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "安全。Payment Calendar 不收集用户数据，也不要求登录。数据保留在你的设备中；可选的 iCloud 同步（PRO 版本）在 Apple 生态内完成。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 会连接我的银行账户吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "不会。Payment Calendar 不会连接银行，也不会自动获取交易记录——所有付款都由你手动添加。这是一个刻意的选择：应用从设计之初就以隐私为先，不需要访问你的银行账户也能正常使用。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我可以添加周期性付款和订阅吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以。你可以添加周期性付款，例如订阅和每月账单。该功能在 PRO 版本中提供。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "应用会发送即将到期付款提醒吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "会。你可以设置提醒，避免错过任何付款。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 支持哪些货币？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "应用支持广泛的货币，包括哥伦比亚比索、蒙古图格里克、墨西哥比索、智利比索和新西兰元等。格式（符号、分隔符、小数位）会根据你设备所在地区自动调整。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我可以导出我的付款记录吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以，PRO 版本支持。你可以将数据导出为 CSV 或 PDF 文件，用于生成报告或存档。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "我可以修改实际付款日期吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以。在编辑已付款项时，表单中有“已付款日期”字段，可以设置实际的付款日期。统计仍按到期日分组，而不是按付款日期。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有主屏幕小组件吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "有，PRO 版本提供。小组件可直接在 iPhone 或 iPad 的主屏幕上显示最近的付款，无需打开应用。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 是家庭预算管理应用吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "不是。它是账单日历，用于跟踪即将到期和已支付的款项。不提供收入、账户余额或预算管理功能。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "数据会在 iPhone 和 iPad 之间同步吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "会，前提是你开启了可选的 iCloud 同步（PRO 功能）——开启后，你的付款数据会在登录同一 iCloud 账户的所有 Apple 设备间同步。未开启该选项时，数据仅保存在当前设备本地。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "应用支持哪些语言？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Payment Calendar 支持 11 种语言：波兰语、英语、西班牙语、德语、法语、意大利语、乌克兰语、瑞典语、简体中文、日语和葡萄牙语（巴西）。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Payment Calendar 有安卓版本吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "没有。Payment Calendar 目前仅支持 iPhone 和 iPad（iOS/iPadOS）。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "有 Apple Watch 版本吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "目前还没有，但 watchOS 支持已列入应用的开发计划。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "不付费订阅也可以使用吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "可以。基础功能可免费使用。PRO 功能（如周期性付款和 iCloud 同步）需要订阅或一次性购买。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "PRO 版本多少钱？可以取消订阅吗？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "价格因地区而异，具体以应用内和 App Store 显示为准。可选择按月、按年订阅，或一次性购买终身版（Lifetime）。订阅可在 Apple ID 设置中管理和取消，与 App Store 中的其他订阅相同。"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "缺少某种货币，或者我有新功能的想法，该怎么办？",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "请发送邮件至 payment_calendar@icloud.com。每一封邮件我都会亲自阅读并回复——用户的反馈和想法确实会影响后续版本的开发。"
+              }
+            }
+          ]
+        }
+      ]
+    }
+    </script>
+  </head>
+  <body>
+    <main>
+      <header>
+        <div class="logo"><span></span>Payment Calendar</div>
+        <nav class="nav" aria-label="导航">
+          <a href="#screens">截图</a>
+          <a href="#whats-new">更新</a>
+          <a href="#features">功能</a>
+          <a href="#privacy">隐私</a>
+          <a href="#pro">专业版</a>
+
+          <a href="#faq">FAQ</a>
+          <a href="#languages">语言</a>
+          <div class="lang-switch">
+            <button class="lang-switch-button" type="button" aria-label="选择语言" aria-expanded="false">
+              <span class="globe-icon">🌐</span>
+              <span>ZH</span>
+              <span class="arrow">▾</span>
+            </button>
+            <div class="lang-dropdown">
+              <a href="../pl/">Polski (PL)<span class="check-mark">✓</span></a>
+              <a href="../en/">English (EN)<span class="check-mark">✓</span></a>
+              <a href="../es/">Español (ES)<span class="check-mark">✓</span></a>
+              <a href="../de/">Deutsch (DE)<span class="check-mark">✓</span></a>
+              <a href="../fr/">Français (FR)<span class="check-mark">✓</span></a>
+              <a href="../it/">Italiano (IT)<span class="check-mark">✓</span></a>
+              <a href="../uk/">Українська (UK)<span class="check-mark">✓</span></a>
+              <a href="../sv/">Svenska (SV)<span class="check-mark">✓</span></a>
+              <a href="../zh-Hans/" aria-current="page">简体中文 (ZH)<span class="check-mark">✓</span></a>
+              <a href="../ja/">日本語 (JA)<span class="check-mark">✓</span></a>
+              <a href="../pt-BR/">Português (PT-BR)<span class="check-mark">✓</span></a>
+            </div>
+          </div>
+        </nav>
+      </header>
+
+      <section class="hero">
+        <div class="hero-text" data-animate style="--delay: 0s">
+          <span class="badge">无需账户 - 无跟踪</span>
+          <h1>在日历的节奏中管理您的付款。</h1>
+          <p>
+            规划账单和订阅，设置提醒并保持清晰的月度概览。您的数据保存在设备上。
+          </p>
+          <div class="tag-row">
+            <span class="tag">本地数据</span>
+            <span class="tag">提醒</span>
+            <span class="tag">手势</span>
+            <span class="tag">深色模式</span>
+          </div>
+          <div class="cta-row">
+            <a class="cta" href="https://apps.apple.com/pl/app/payment-calendar/id6757201533">在 App Store 下载</a>
+            <a class="cta secondary" href="#features">查看功能</a>
+          </div>
+        </div>
+        <div class="hero-card" data-animate style="--delay: 0.1s">
+          <img
+            class="hero-shot"
+            src="../assets/images/iOS/ZH-HANS/ZH-HANS1.png"
+            alt="Payment Calendar calendar view"
+            fetchpriority="high"
+            decoding="async"
+          />
+        </div>
+      </section>
+
+      <section class="section" id="whats-new" data-animate style="--delay: 0.12s">
+        <div class="highlight">
+          <span class="badge">2.1.0 版本新内容</span>
+          <ul class="whats-new-list">
+            <li>新增可编辑的实际付款日期</li>
+            <li>主屏幕新增"全部已付清"提示</li>
+            <li>优化统计与日历视图</li>
+            <li>动画更流畅，可读性更好，iPad 上的视觉效果全面提升</li>
+          </ul>
+        </div>
+      </section>
+
+      <section class="section" id="screens" data-animate style="--delay: 0.15s">
+        <h2>了解应用</h2>
+        <p>iPhone 和 iPad 上的 6 个关键界面，展示 Payment Calendar 的规划节奏。</p>
+        <div class="screens-block">
+          <div class="screens-title">iPhone · iPad</div>
+          <div class="screens-grid">
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS1.png" alt="See what's coming — before it's due" loading="lazy" decoding="async" />
+              <figcaption>See what's coming — before it's due</figcaption>
+            </figure>
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS2.png" alt="Never miss a payment" loading="lazy" decoding="async" />
+              <figcaption>Never miss a payment</figcaption>
+            </figure>
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS3.png" alt="Privacy first. Offline by default." loading="lazy" decoding="async" />
+              <figcaption>Privacy first. Offline by default.</figcaption>
+            </figure>
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS4.png" alt="Quick actions with gestures" loading="lazy" decoding="async" />
+              <figcaption>Quick actions with gestures</figcaption>
+            </figure>
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS5.png" alt="Insights with PRO" loading="lazy" decoding="async" />
+              <figcaption>Insights with PRO</figcaption>
+            </figure>
+            <figure>
+              <img src="../assets/images/iOS/ZH-HANS/ZH-HANS6.png" alt="Home Screen widgets (PRO)" loading="lazy" decoding="async" />
+              <figcaption>Home Screen widgets (PRO)</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS1.png" alt="See what's coming — before it's due" loading="lazy" decoding="async" />
+              <figcaption>See what's coming — before it's due</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS2.png" alt="Never miss a payment" loading="lazy" decoding="async" />
+              <figcaption>Never miss a payment</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS3.png" alt="Privacy first. Offline by default." loading="lazy" decoding="async" />
+              <figcaption>Privacy first. Offline by default.</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS4.png" alt="Quick actions with gestures" loading="lazy" decoding="async" />
+              <figcaption>Quick actions with gestures</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS5.png" alt="Insights with PRO" loading="lazy" decoding="async" />
+              <figcaption>Insights with PRO</figcaption>
+            </figure>
+            <figure class="is-ipad">
+              <img src="../assets/images/iPadOS/ZH-HANS/ZH-HANS6.png" alt="Home Screen widgets (PRO)" loading="lazy" decoding="async" />
+              <figcaption>Home Screen widgets (PRO)</figcaption>
+            </figure>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="features" data-animate style="--delay: 0.2s">
+        <h2>主要功能</h2>
+        <p>
+          清晰的月视图、快速输入和提醒，帮助您始终领先于每笔付款。
+        </p>
+        <div class="grid cols-3">
+          <div class="card">
+            <h3>付款日历</h3>
+            <p>在一个地方查看即将到期的日期和您的付款列表。</p>
+          </div>
+          <div class="card">
+            <h3>提醒</h3>
+            <p>在到期日当天或提前几天收到通知。</p>
+          </div>
+          <div class="card">
+            <h3>手势和快速操作</h3>
+            <p>通过滑动标记为已付款、编辑或复制。</p>
+          </div>
+          <div class="card">
+            <h3>搜索</h3>
+            <p>按名称、金额或备注查找付款。</p>
+          </div>
+          <div class="card">
+            <h3>个性化设置</h3>
+            <p>货币、一周开始日、主题和适合您的布局。</p>
+          </div>
+          <div class="card">
+            <h3>支持 iPad</h3>
+            <p>针对 iPad 优化，支持窗口模式和 Split View。</p>
+          </div>
+          <div class="card">
+            <h3>CSV/PDF 导出（专业版）</h3>
+            <p>需要报告时导出摘要。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="privacy" data-animate style="--delay: 0.25s">
+        <div class="split">
+          <div class="highlight">
+            <span class="badge">隐私</span>
+            <h3>您的数据保存在设备上。</h3>
+            <p>
+              Payment Calendar 无需账户，不跟踪您的活动。iCloud 同步是可选的，默认关闭。
+            </p>
+          </div>
+          <div class="card">
+            <h3>无广告，无分析</h3>
+            <p>我们不使用第三方 SDK 进行分析或广告。</p>
+          </div>
+          <div class="card">
+            <h3>数据控制</h3>
+            <p>随时在应用内删除您的数据或通过卸载删除。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="pro" data-animate style="--delay: 0.3s">
+        <h2>专业版功能</h2>
+        <p>升级获取统计、小组件和自动化功能。</p>
+        <div class="grid cols-3">
+          <div class="card">
+            <h3>统计和趋势</h3>
+            <p>月度摘要加 6 个月趋势视图。</p>
+          </div>
+          <div class="card">
+            <h3>小组件</h3>
+            <p>在主屏幕上一目了然地查看下一笔付款。</p>
+          </div>
+          <div class="card">
+            <h3>循环付款</h3>
+            <p>自动创建重复付款。</p>
+          </div>
+          <div class="card">
+            <h3>iCloud 同步</h3>
+            <p>启用后在您的设备间保持数据同步。</p>
+          </div>
+          <div class="card">
+            <h3>CSV/PDF 导出</h3>
+            <p>分享摘要或归档您的数据。</p>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="languages" data-animate style="--delay: 0.35s">
+        <h2>提供 11 种语言</h2>
+        <p>
+          Payment Calendar 支持波兰语、英语、西班牙语、德语、法语、意大利语、乌克兰语、瑞典语、简体中文、日语和葡萄牙语（巴西）。
+        </p>
+        <div class="tag-row">
+          <span class="tag">PL</span>
+          <span class="tag">EN</span>
+          <span class="tag">ES</span>
+          <span class="tag">DE</span>
+          <span class="tag">FR</span>
+          <span class="tag">IT</span>
+          <span class="tag">UK</span>
+          <span class="tag">SV</span>
+          <span class="tag">ZH-Hans</span>
+          <span class="tag">JA</span>
+          <span class="tag">PT-BR</span>
+        </div>
+      </section>
+
+
+      <section class="section" id="faq" data-animate style="--delay: 0.38s">
+        <h2>常见问题（FAQ）</h2>
+        <p>查看有关 Payment Calendar 的常见问题与解答。</p>
+        <div class="faq-list">
+          <h3 class="faq-group-title">下载前</h3>
+          <details class="faq-item">
+            <summary>如何避免忘记账单到期？</summary>
+            <p class="faq-answer">Payment Calendar 会在月视图中显示所有即将到期的付款，并在到期前发送提醒，让你提前知道该付什么、什么时候付。</p>
+          </details>
+          <details class="faq-item">
+            <summary>如何管理订阅，避免为不需要的服务继续付费？</summary>
+            <p class="faq-answer">将订阅添加为周期性付款（PRO 功能）——应用会在每次续费前自动提醒你，方便你及时发现并取消不再需要的订阅。</p>
+          </details>
+          <details class="faq-item">
+            <summary>有没有一款像日历、但专门用来管理账单和付款的应用？</summary>
+            <p class="faq-answer">有，这正是 Payment Calendar 的设计理念——月视图显示的是付款而不是日程，清楚标记哪些已付清、哪些还在等待到期。</p>
+          </details>
+          <details class="faq-item">
+            <summary>如何在不注册账号的情况下管理付款？</summary>
+            <p class="faq-answer">Payment Calendar 无需注册或登录——安装后即可直接添加付款。数据保存在本地设备上，除非你自己开启可选的 iCloud 同步。</p>
+          </details>
+          <details class="faq-item">
+            <summary>Payment Calendar 和手机自带的日历有什么区别？</summary>
+            <p class="faq-answer">普通日历显示的是日程，而不是付款——没有"已付清 / 待付款"状态，没有针对账单的提醒，也无法查看支出情况。Payment Calendar 专为付款设计：包含金额、货币、周期设置，以及每月实际支出的统计。</p>
+          </details>
+
+          <h3 class="faq-group-title">基础信息</h3>
+          <details class="faq-item">
+            <summary>Payment Calendar 是什么应用？</summary>
+            <p class="faq-answer">Payment Calendar 是一款适用于 iPhone 和 iPad（iOS/iPadOS）的账单与待付账款日历应用。你可以快速查看即将到期的付款，并将其标记为已支付。</p>
+          </details>
+          <details class="faq-item">
+            <summary>应用可以离线使用吗？</summary>
+            <p class="faq-answer">可以。应用支持离线使用，不需要账号，也不需要网络连接。数据保存在本地设备中。可选的 iCloud 同步（PRO 版本）可让你在多个 Apple 设备间访问数据。</p>
+          </details>
+          <details class="faq-item">
+            <summary>Payment Calendar 支持哪些设备？</summary>
+            <p class="faq-answer">该应用适用于运行 iOS/iPadOS 18.0 或更高版本的 iPhone 和 iPad。</p>
+          </details>
+
+          <h3 class="faq-group-title">隐私与数据</h3>
+          <details class="faq-item">
+            <summary>我的财务数据安全吗？</summary>
+            <p class="faq-answer">安全。Payment Calendar 不收集用户数据，也不要求登录。数据保留在你的设备中；可选的 iCloud 同步（PRO 版本）在 Apple 生态内完成。</p>
+          </details>
+          <details class="faq-item">
+            <summary>Payment Calendar 会连接我的银行账户吗？</summary>
+            <p class="faq-answer">不会。Payment Calendar 不会连接银行，也不会自动获取交易记录——所有付款都由你手动添加。这是一个刻意的选择：应用从设计之初就以隐私为先，不需要访问你的银行账户也能正常使用。</p>
+          </details>
+
+          <h3 class="faq-group-title">功能</h3>
+          <details class="faq-item">
+            <summary>我可以添加周期性付款和订阅吗？</summary>
+            <p class="faq-answer">可以。你可以添加周期性付款，例如订阅和每月账单。该功能在 PRO 版本中提供。</p>
+          </details>
+          <details class="faq-item">
+            <summary>应用会发送即将到期付款提醒吗？</summary>
+            <p class="faq-answer">会。你可以设置提醒，避免错过任何付款。</p>
+          </details>
+          <details class="faq-item">
+            <summary>Payment Calendar 支持哪些货币？</summary>
+            <p class="faq-answer">应用支持广泛的货币，包括哥伦比亚比索、蒙古图格里克、墨西哥比索、智利比索和新西兰元等。格式（符号、分隔符、小数位）会根据你设备所在地区自动调整。</p>
+          </details>
+          <details class="faq-item">
+            <summary>我可以导出我的付款记录吗？</summary>
+            <p class="faq-answer">可以，PRO 版本支持。你可以将数据导出为 CSV 或 PDF 文件，用于生成报告或存档。</p>
+          </details>
+          <details class="faq-item">
+            <summary>我可以修改实际付款日期吗？</summary>
+            <p class="faq-answer">可以。在编辑已付款项时，表单中有"已付款日期"字段，可以设置实际的付款日期。统计仍按到期日分组，而不是按付款日期。</p>
+          </details>
+          <details class="faq-item">
+            <summary>有主屏幕小组件吗？</summary>
+            <p class="faq-answer">有，PRO 版本提供。小组件可直接在 iPhone 或 iPad 的主屏幕上显示最近的付款，无需打开应用。</p>
+          </details>
+          <details class="faq-item">
+            <summary>Payment Calendar 是家庭预算管理应用吗？</summary>
+            <p class="faq-answer">不是。它是账单日历，用于跟踪即将到期和已支付的款项。不提供收入、账户余额或预算管理功能。</p>
+          </details>
+
+          <h3 class="faq-group-title">同步与语言</h3>
+          <details class="faq-item">
+            <summary>数据会在 iPhone 和 iPad 之间同步吗？</summary>
+            <p class="faq-answer">会，前提是你开启了可选的 iCloud 同步（PRO 功能）——开启后，你的付款数据会在登录同一 iCloud 账户的所有 Apple 设备间同步。未开启该选项时，数据仅保存在当前设备本地。</p>
+          </details>
+          <details class="faq-item">
+            <summary>应用支持哪些语言？</summary>
+            <p class="faq-answer">Payment Calendar 支持 11 种语言：波兰语、英语、西班牙语、德语、法语、意大利语、乌克兰语、瑞典语、简体中文、日语和葡萄牙语（巴西）。</p>
+          </details>
+
+          <h3 class="faq-group-title">平台</h3>
+          <details class="faq-item">
+            <summary>Payment Calendar 有安卓版本吗？</summary>
+            <p class="faq-answer">没有。Payment Calendar 目前仅支持 iPhone 和 iPad（iOS/iPadOS）。</p>
+          </details>
+          <details class="faq-item">
+            <summary>有 Apple Watch 版本吗？</summary>
+            <p class="faq-answer">目前还没有，但 watchOS 支持已列入应用的开发计划。</p>
+          </details>
+
+          <h3 class="faq-group-title">价格与专业版</h3>
+          <details class="faq-item">
+            <summary>不付费订阅也可以使用吗？</summary>
+            <p class="faq-answer">可以。基础功能可免费使用。PRO 功能（如周期性付款和 iCloud 同步）需要订阅或一次性购买。</p>
+          </details>
+          <details class="faq-item">
+            <summary>PRO 版本多少钱？可以取消订阅吗？</summary>
+            <p class="faq-answer">价格因地区而异，具体以应用内和 App Store 显示为准。可选择按月、按年订阅，或一次性购买终身版（Lifetime）。订阅可在 Apple ID 设置中管理和取消，与 App Store 中的其他订阅相同。</p>
+          </details>
+
+          <h3 class="faq-group-title">反馈与支持</h3>
+          <details class="faq-item">
+            <summary>缺少某种货币，或者我有新功能的想法，该怎么办？</summary>
+            <p class="faq-answer">请发送邮件至 <a href="mailto:payment_calendar@icloud.com">payment_calendar@icloud.com</a>。每一封邮件我都会亲自阅读并回复——用户的反馈和想法确实会影响后续版本的开发。</p>
+          </details>
+        </div>
+      </section>
+
+      <section class="section" data-animate style="--delay: 0.4s">
+        <div class="highlight">
+          <h3>准备好更轻松地规划付款了吗？</h3>
+          <p>Payment Calendar 让您随时掌握每个到期日。</p>
+          <div class="cta-row">
+            <a class="cta" href="https://apps.apple.com/pl/app/payment-calendar/id6757201533">在 App Store 下载</a>
+            <a class="cta secondary" href="mailto:payment_calendar@icloud.com">联系我们</a>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div>&copy; <span id="footer-year">2025</span> Payment Calendar</div>
+        <div class="links">
+          <a href="/legal/zh-Hans/privacy.html">隐私政策</a>
+          <a href="/legal/zh-Hans/terms.html">使用条款</a>
+          <a href="mailto:payment_calendar@icloud.com">联系</a>
+        </div>
+      </footer>
+    </main>
+
+  <button class="back-to-top" id="backToTop" type="button" aria-label="返回顶部">返回顶部</button>
+
+    <script src="../assets/js/filmstrip.js?v=20260131" defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      (function () {
+        var dropdown = document.querySelector('.lang-switch');
+        var button = dropdown ? dropdown.querySelector('.lang-switch-button') : null;
+        if (button) {
+          button.addEventListener('click', function(e) {
+            e.stopPropagation();
+            dropdown.classList.toggle('is-open');
+            button.setAttribute('aria-expanded', dropdown.classList.contains('is-open'));
+          });
+          document.addEventListener('click', function() {
+            dropdown.classList.remove('is-open');
+            button.setAttribute('aria-expanded', 'false');
+          });
+        }
+
+        var yearSpan = document.getElementById('footer-year');
+        if (yearSpan) {
+          var currentYear = new Date().getFullYear();
+          yearSpan.textContent = currentYear > 2025 ? '2025 - ' + currentYear : '2025';
+        }
+
+        var backToTopButton = document.getElementById("backToTop");
+        if (!backToTopButton) {
+          return;
+        }
+        var prefersReduced = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        function getScrollTop() {
+          return window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        }
+        function toggle() {
+          if (getScrollTop() > 240) {
+            backToTopButton.classList.add("is-visible");
+          } else {
+            backToTopButton.classList.remove("is-visible");
+          }
+        }
+        window.addEventListener("scroll", toggle, { passive: true });
+        window.addEventListener("resize", toggle);
+        backToTopButton.addEventListener("click", function () {
+          window.scrollTo({ top: 0, behavior: prefersReduced ? "auto" : "smooth" });
+        });
+        toggle();
+      })();
+    });
+  </script>
+  </body>
+</html>

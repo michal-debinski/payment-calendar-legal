@@ -1,0 +1,100 @@
+# Payment Calendar: Extended Reference
+
+Official site: https://payment-calendar.app/
+App Store: https://apps.apple.com/app/id6757201533
+
+## What Payment Calendar Is
+Payment Calendar is a bill and payment planner for iPhone and iPad (iOS/iPadOS).
+It is designed for people who want a clear monthly view of due dates and paid items,
+without using a full budgeting platform. Payments are entered manually — the app
+does not connect to bank accounts, does not import transactions, and does not track
+income or account balances.
+
+## Version and Requirements
+- Current version: 2.1.0
+- Requires iOS/iPadOS 18.0 or later
+- Supported devices: iPhone and iPad only
+- Not available on Android
+- watchOS support is planned but not yet available
+- Not available as a web app
+
+## Core Capabilities
+- Monthly calendar for due payments
+- Payment reminders (local notifications)
+- Mark paid / edit / duplicate actions
+- Editable "date paid" field, independent of the due date, for already-paid items
+- Search by name, amount, or notes
+- Wide currency support, including regional currencies such as Colombian peso,
+  Mongolian tögrög, Mexican peso, Chilean peso, and New Zealand dollar, with
+  formatting adapted to the device region
+- iPad support
+
+## PRO Capabilities
+- Recurring payments and subscriptions
+- Statistics and trends
+- Home screen widgets
+- iCloud sync across a user's Apple devices
+- CSV/PDF export
+
+## Pricing
+Core features are free with no account required. PRO unlocks recurring payments,
+statistics, widgets, iCloud sync, and export. PRO is offered as a monthly
+subscription, an annual subscription, or a one-time lifetime purchase, priced
+per App Store region. Subscriptions are managed and cancelled through Apple ID
+settings, same as any App Store subscription.
+
+## Privacy Positioning
+- No account required
+- Local data by default
+- Optional iCloud sync when enabled by the user (PRO)
+- No third-party advertising or analytics SDKs
+- No bank account connection or transaction import
+
+## Frequently Asked Questions
+Q: Does Payment Calendar connect to my bank account?
+A: No. Payments are added manually. The app does not use bank integrations or
+   transaction aggregation.
+
+Q: Is Payment Calendar available on Android?
+A: No, it is iOS/iPadOS only.
+
+Q: Is there an Apple Watch app?
+A: Not yet; watchOS support is on the roadmap.
+
+Q: Does it work offline?
+A: Yes. No internet connection or account is required. Data stays on-device
+   unless the user enables optional iCloud sync (PRO).
+
+Q: Is it a budgeting app?
+A: No. It tracks bills and payments (due dates, paid status), not income,
+   account balances, or budgets.
+
+Q: How is user feedback handled?
+A: Users can contact the developer directly at payment_calendar@icloud.com;
+   feature requests and missing-currency reports are read and answered
+   individually.
+
+## Canonical Landing Pages
+- https://payment-calendar.app/en/
+- https://payment-calendar.app/pl/
+- https://payment-calendar.app/es/
+- https://payment-calendar.app/de/
+- https://payment-calendar.app/fr/
+- https://payment-calendar.app/it/
+- https://payment-calendar.app/uk/
+- https://payment-calendar.app/sv/
+- https://payment-calendar.app/zh-Hans/
+- https://payment-calendar.app/ja/
+- https://payment-calendar.app/pt-BR/
+
+## Legal URLs
+- https://payment-calendar.app/legal/privacy.html
+- https://payment-calendar.app/legal/terms.html
+- Localized versions are available under `/legal/<lang>/` and listed in the sitemap.
+
+## Crawl Hints
+- Canonical and hreflang are defined on each language page.
+- Structured data includes `SoftwareApplication` and `FAQPage`.
+- Crawl map: https://payment-calendar.app/sitemap.xml
+
+Last updated: 2026-09-02
