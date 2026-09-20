@@ -1,0 +1,76 @@
+# https://payment-calendar.app/
+# Cała witryna jest publiczna i przeznaczona do indeksowania.
+
+User-agent: *
+Allow: /
+
+# --- Wyszukiwarki ---
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Applebot zasila Siri i Spotlight - dla aplikacji na iOS to najwazniejszy
+# robot po Googlebocie.
+User-agent: Applebot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# --- Roboty AI: wyszukiwanie i cytowanie ---
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# --- Zgoda na wykorzystanie tresci do trenowania modeli ---
+# Spojne z powyzszym: chcemy, zeby asystenci AI znali i cytowali aplikacje.
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://payment-calendar.app/sitemap.xml

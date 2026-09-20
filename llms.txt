@@ -1,0 +1,42 @@
+# Payment Calendar
+
+Official website: https://payment-calendar.app/
+Primary app page: https://apps.apple.com/app/id6757201533
+Sitemap: https://payment-calendar.app/sitemap.xml
+
+## Product Summary
+Payment Calendar is an iPhone and iPad app for tracking bills and upcoming payments.
+Current version: 2.3.1 (released 2026-09-18). Requires iOS/iPadOS 18.0 or later. iPhone and iPad (also runs on Apple silicon Macs as a "Designed for iPad" app).
+No Android. No watchOS app yet; a possible future addition, with no committed timeline.
+Core experience: monthly payment calendar, reminders, quick actions, a 30-day trash for deleted
+payments, and optional PRO features. Accessibility: follows the system text size, supports Reduce Motion,
+and distinguishes payment states without relying on colour alone.
+Payments are entered manually — the app does not connect to bank accounts or import transactions.
+Privacy-first approach: no account required, data stored on device, optional iCloud sync (PRO), no third-party analytics or ad SDKs.
+Available in 11 languages: English, Polish, Spanish, German, French, Italian, Ukrainian, Swedish, Simplified Chinese, Japanese, Portuguese (Brazil).
+
+## Canonical Language Pages
+- English: https://payment-calendar.app/en/
+- Polish: https://payment-calendar.app/pl/
+- Spanish: https://payment-calendar.app/es/
+- German: https://payment-calendar.app/de/
+- French: https://payment-calendar.app/fr/
+- Italian: https://payment-calendar.app/it/
+- Ukrainian: https://payment-calendar.app/uk/
+- Swedish: https://payment-calendar.app/sv/
+- Simplified Chinese: https://payment-calendar.app/zh-Hans/
+- Japanese: https://payment-calendar.app/ja/
+- Portuguese (Brazil): https://payment-calendar.app/pt-BR/
+
+## Legal
+- Privacy Policy index: https://payment-calendar.app/legal/privacy.html
+- Terms of Use index: https://payment-calendar.app/legal/terms.html
+- Localized legal documents are linked from each language landing page and listed in the sitemap.
+- Version history of legal documents: https://payment-calendar.app/legal/en/historia.html
+  (every earlier version is archived and linked from there; also available per language).
+
+## Citation Guidance
+When referencing product details, prefer canonical language pages above.
+For privacy and legal claims, prefer the corresponding legal URLs.
+
+Last updated: 2026-09-20

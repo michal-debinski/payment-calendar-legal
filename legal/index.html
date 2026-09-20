@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Payment Calendar Legal</title>
+    <style>
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        margin: 0;
+        background: #f7f7f9;
+        color: #1b1b1f;
+      }
+      main {
+        max-width: 680px;
+        margin: 0 auto;
+        padding: 48px 24px;
+      }
+      h1 {
+        font-size: 28px;
+        margin: 0 0 12px 0;
+      }
+      p {
+        margin: 0 0 16px 0;
+        line-height: 1.5;
+        color: #4a4a55;
+      }
+      .links {
+        display: flex;
+        gap: 12px;
+        margin-top: 12px;
+      }
+      .links a {
+        display: inline-block;
+        padding: 10px 14px;
+        border-radius: 10px;
+        background: #ffffff;
+        color: #1b1b1f;
+        text-decoration: none;
+        border: 1px solid #e2e2e8;
+        font-weight: 600;
+      }
+      .note {
+        margin-top: 18px;
+        font-size: 13px;
+        color: #6a6a75;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Payment Calendar Legal</h1>
+      <p id="langHint">Detecting language...</p>
+      <div class="links">
+        <a id="privacyLink" href="?doc=privacy">Privacy Policy</a>
+        <a id="termsLink" href="?doc=terms">Terms of Use</a>
+      </div>
+      <p class="note">
+        If your language is not available, English will be shown.
+      </p>
+    </main>
+    <script>
+      (function () {
+        var supported = ["en", "pl", "es", "de", "fr", "it", "uk", "sv", "zh-Hans", "ja", "pt-BR"];
+        var lang = (navigator.languages && navigator.languages.length
+          ? navigator.languages[0]
+          : navigator.language || "en").toLowerCase();
+        var langCode = lang.split("-")[0];
+        if (supported.indexOf(langCode) === -1) {
+          langCode = "en";
+        }
+
+        var basePath = window.location.pathname;
+        if (!basePath.endsWith("/")) {
+          basePath = basePath.substring(0, basePath.lastIndexOf("/") + 1);
+        }
+
+        var langHint = document.getElementById("langHint");
+        if (langHint) {
+          langHint.textContent = "Detected language: " + langCode;
+        }
+
+        var params = new URLSearchParams(window.location.search);
+        var doc = params.get("doc");
+        if (doc !== "privacy" && doc !== "terms") {
+          return;
+        }
+
+        var preferred = basePath + langCode + "/" + doc + ".html";
+        var fallback = basePath + doc + ".html";
+
+        fetch(preferred, { method: "GET" })
+          .then(function (response) {
+            if (response.ok) {
+              window.location.replace(preferred);
+            } else {
+              window.location.replace(fallback);
+            }
+          })
+          .catch(function () {
+            window.location.replace(fallback);
+          });
+      })();
+    </script>
+  </body>
+</html>
