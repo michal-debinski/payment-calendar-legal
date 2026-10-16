@@ -1,0 +1,880 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://payment-calendar.app/</loc>
+    <lastmod>2026-09-20</lastmod>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/pl/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PL/kalendarz-platnosci-widok-miesiaca-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PL/przypomnienie-o-terminie-platnosci-szczegoly-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PL/lista-rachunkow-rat-i-terminow-platnosci-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PL/statystyki-wydatkow-faktury-abonamenty-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PL/widzet-najblizsza-platnosc-kalendarz-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PL/kalendarz-platnosci-widok-miesiaca-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PL/przypomnienie-o-terminie-platnosci-szczegoly-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PL/lista-rachunkow-rat-i-terminow-platnosci-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PL/statystyki-wydatkow-faktury-abonamenty-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PL/widzet-najblizsza-platnosc-kalendarz-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PL/kalendarz-platnosci-widok-miesiaca-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PL/przypomnienie-o-terminie-platnosci-szczegoly-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PL/lista-rachunkow-rat-i-terminow-platnosci-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PL/statystyki-wydatkow-faktury-abonamenty-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PL/widzet-najblizsza-platnosc-kalendarz-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/en/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ENG/bill-pay-calendar-monthly-view-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ENG/payment-reminder-due-date-details-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ENG/bill-tracker-upcoming-overdue-list-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ENG/spending-trend-subscriptions-summary-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ENG/bill-reminder-widgets-home-screen-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ENG/bill-pay-calendar-monthly-view-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ENG/payment-reminder-due-date-details-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ENG/bill-tracker-upcoming-overdue-list-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ENG/spending-trend-subscriptions-summary-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ENG/bill-reminder-widgets-home-screen-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ENG/bill-pay-calendar-monthly-view-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ENG/payment-reminder-due-date-details-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ENG/bill-tracker-upcoming-overdue-list-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ENG/spending-trend-subscriptions-summary-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ENG/bill-reminder-widgets-home-screen-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/es/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ESP/calendario-de-pagos-vista-mensual-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ESP/recordatorio-vencimiento-detalle-pago-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ESP/lista-facturas-recibos-vencimientos-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ESP/tendencia-gastos-suscripciones-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ESP/widgets-proximo-pago-recibos-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ESP/calendario-de-pagos-vista-mensual-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ESP/recordatorio-vencimiento-detalle-pago-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ESP/lista-facturas-recibos-vencimientos-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ESP/tendencia-gastos-suscripciones-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ESP/widgets-proximo-pago-recibos-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ESP/calendario-de-pagos-vista-mensual-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ESP/recordatorio-vencimiento-detalle-pago-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ESP/lista-facturas-recibos-vencimientos-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ESP/tendencia-gastos-suscripciones-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ESP/widgets-proximo-pago-recibos-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/de/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/DE/zahlungskalender-monatsansicht-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/DE/zahlungserinnerung-faelligkeit-details-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/DE/rechnungen-faelligkeiten-fixkosten-liste-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/DE/ausgabentrend-abonnements-uebersicht-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/DE/widgets-naechste-zahlung-fixkosten-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/DE/zahlungskalender-monatsansicht-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/DE/zahlungserinnerung-faelligkeit-details-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/DE/rechnungen-faelligkeiten-fixkosten-liste-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/DE/ausgabentrend-abonnements-uebersicht-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/DE/widgets-naechste-zahlung-fixkosten-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/DE/zahlungskalender-monatsansicht-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/DE/zahlungserinnerung-faelligkeit-details-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/DE/rechnungen-faelligkeiten-fixkosten-liste-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/DE/ausgabentrend-abonnements-uebersicht-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/DE/widgets-naechste-zahlung-fixkosten-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/fr/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/FR/calendrier-paiements-vue-mensuelle-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/FR/rappel-echeance-detail-paiement-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/FR/suivi-factures-echeances-a-venir-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/FR/tendance-depenses-abonnements-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/FR/widgets-prochain-paiement-factures-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/FR/calendrier-paiements-vue-mensuelle-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/FR/rappel-echeance-detail-paiement-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/FR/suivi-factures-echeances-a-venir-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/FR/tendance-depenses-abonnements-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/FR/widgets-prochain-paiement-factures-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/FR/calendrier-paiements-vue-mensuelle-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/FR/rappel-echeance-detail-paiement-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/FR/suivi-factures-echeances-a-venir-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/FR/tendance-depenses-abonnements-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/FR/widgets-prochain-paiement-factures-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/it/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/IT/calendario-pagamenti-vista-mensile-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/IT/promemoria-scadenza-dettaglio-pagamento-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/IT/scadenzario-bollette-rate-abbonamenti-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/IT/andamento-spese-abbonamenti-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/IT/widget-prossimo-pagamento-scadenze-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/IT/calendario-pagamenti-vista-mensile-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/IT/promemoria-scadenza-dettaglio-pagamento-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/IT/scadenzario-bollette-rate-abbonamenti-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/IT/andamento-spese-abbonamenti-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/IT/widget-prossimo-pagamento-scadenze-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/IT/calendario-pagamenti-vista-mensile-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/IT/promemoria-scadenza-dettaglio-pagamento-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/IT/scadenzario-bollette-rate-abbonamenti-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/IT/andamento-spese-abbonamenti-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/IT/widget-prossimo-pagamento-scadenze-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/uk/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/UA/kalendar-platezhiv-perehlyad-misyatsya-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/UA/nagaduvannya-pro-termin-oplaty-detali-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/UA/spysok-rahunkiv-ta-terminiv-oplaty-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/UA/trend-vytrat-pidpysky-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/UA/vidzhety-nayblyzhchyi-platizh-rahunky-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/UA/kalendar-platezhiv-perehlyad-misyatsya-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/UA/nagaduvannya-pro-termin-oplaty-detali-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/UA/spysok-rahunkiv-ta-terminiv-oplaty-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/UA/trend-vytrat-pidpysky-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/UA/vidzhety-nayblyzhchyi-platizh-rahunky-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/UA/kalendar-platezhiv-perehlyad-misyatsya-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/UA/nagaduvannya-pro-termin-oplaty-detali-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/UA/spysok-rahunkiv-ta-terminiv-oplaty-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/UA/trend-vytrat-pidpysky-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/UA/vidzhety-nayblyzhchyi-platizh-rahunky-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/sv/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/SV/betalningskalender-manadsvy-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/SV/paminnelse-forfallodatum-betalningsinformation-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/SV/rakningar-forfallodatum-lista-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/SV/utgiftstrend-abonnemang-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/SV/widgets-nasta-betalning-rakningar-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/SV/betalningskalender-manadsvy-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/SV/paminnelse-forfallodatum-betalningsinformation-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/SV/rakningar-forfallodatum-lista-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/SV/utgiftstrend-abonnemang-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/SV/widgets-nasta-betalning-rakningar-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/SV/betalningskalender-manadsvy-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/SV/paminnelse-forfallodatum-betalningsinformation-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/SV/rakningar-forfallodatum-lista-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/SV/utgiftstrend-abonnemang-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/SV/widgets-nasta-betalning-rakningar-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/zh-Hans/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ZH-HANS/fukuan-rili-yueshitu-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ZH-HANS/daoqi-tixing-fukuan-xiangqing-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ZH-HANS/zhangdan-daoqi-liebiao-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ZH-HANS/zhichu-qushi-dingyue-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/ZH-HANS/xiaozujian-xiayibi-fukuan-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ZH-HANS/fukuan-rili-yueshitu-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ZH-HANS/daoqi-tixing-fukuan-xiangqing-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ZH-HANS/zhangdan-daoqi-liebiao-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ZH-HANS/zhichu-qushi-dingyue-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/ZH-HANS/xiaozujian-xiayibi-fukuan-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ZH-HANS/fukuan-rili-yueshitu-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ZH-HANS/daoqi-tixing-fukuan-xiangqing-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ZH-HANS/zhangdan-daoqi-liebiao-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ZH-HANS/zhichu-qushi-dingyue-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/ZH-HANS/xiaozujian-xiayibi-fukuan-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/ja/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/JA/seikyusho-shiharai-calendar-tsukihyouji-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/JA/shiharai-kigen-reminder-shousai-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/JA/kotei-hi-sabusuku-kigen-ichiran-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/JA/shishutsu-trend-sabusuku-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/JA/widget-tsugi-no-shiharai-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/JA/seikyusho-shiharai-calendar-tsukihyouji-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/JA/shiharai-kigen-reminder-shousai-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/JA/kotei-hi-sabusuku-kigen-ichiran-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/JA/shishutsu-trend-sabusuku-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/JA/widget-tsugi-no-shiharai-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/JA/seikyusho-shiharai-calendar-tsukihyouji-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/JA/shiharai-kigen-reminder-shousai-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/JA/kotei-hi-sabusuku-kigen-ichiran-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/JA/shishutsu-trend-sabusuku-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/JA/widget-tsugi-no-shiharai-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/pt-BR/</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/pl/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/fr/"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/it/"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/uk/"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/sv/"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/zh-Hans/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/ja/"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/pt-BR/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/"/>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PT-BR/agenda-de-pagamentos-visao-mensal-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PT-BR/lembrete-de-vencimento-detalhes-do-pagamento-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PT-BR/lista-contas-boletos-vencimentos-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PT-BR/tendencia-gastos-assinaturas-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iOS/PT-BR/widgets-proximo-pagamento-contas-pro-iphone.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PT-BR/agenda-de-pagamentos-visao-mensal-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PT-BR/lembrete-de-vencimento-detalhes-do-pagamento-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PT-BR/lista-contas-boletos-vencimentos-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PT-BR/tendencia-gastos-assinaturas-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/Duo/PT-BR/widgets-proximo-pagamento-contas-pro-iphone-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PT-BR/agenda-de-pagamentos-visao-mensal-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PT-BR/lembrete-de-vencimento-detalhes-do-pagamento-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PT-BR/lista-contas-boletos-vencimentos-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PT-BR/tendencia-gastos-assinaturas-pro-ipad.jpg</image:loc></image:image>
+    <image:image><image:loc>https://payment-calendar.app/assets/images/iPadOS/PT-BR/widgets-proximo-pagamento-contas-pro-ipad.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/</loc>
+    <lastmod>2026-03-30</lastmod>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pl/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pl/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pl/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/en/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/en/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/es/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/es/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/de/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/de/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/fr/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/fr/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/it/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/it/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/uk/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/uk/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/sv/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/sv/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/zh-Hans/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/zh-Hans/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/ja/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/ja/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pt-BR/privacy.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pt-BR/terms.html</loc>
+    <lastmod>2026-03-30</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/terms.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/en/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/es/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/de/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/fr/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/it/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/uk/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/sv/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/zh-Hans/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/ja/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+  <url>
+    <loc>https://payment-calendar.app/legal/pt-BR/historia.html</loc>
+    <lastmod>2026-09-20</lastmod>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://payment-calendar.app/legal/pl/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://payment-calendar.app/legal/en/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://payment-calendar.app/legal/es/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://payment-calendar.app/legal/de/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://payment-calendar.app/legal/fr/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://payment-calendar.app/legal/it/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://payment-calendar.app/legal/uk/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="sv" href="https://payment-calendar.app/legal/sv/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://payment-calendar.app/legal/zh-Hans/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://payment-calendar.app/legal/ja/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://payment-calendar.app/legal/pt-BR/historia.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://payment-calendar.app/legal/en/historia.html"/>
+  </url>
+</urlset>
