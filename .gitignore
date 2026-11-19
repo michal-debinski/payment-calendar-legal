@@ -1,0 +1,27 @@
+# macOS / Windows
+.DS_Store
+._*
+Thumbs.db
+
+# Edytory
+.vscode/
+.idea/
+*.swp
+*~
+
+# Sekrety i klucze – nigdy w publicznym repo
+.env
+.env.*
+*.p8
+*.p12
+*.pem
+*.key
+*.cer
+*.mobileprovision
+
+# Lokalne robocze
+*.log
+*.patch
+*.orig
+.jekyll-cache/
+_site/
